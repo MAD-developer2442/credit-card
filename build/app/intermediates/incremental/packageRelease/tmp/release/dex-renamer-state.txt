@@ -1,0 +1,4 @@
+#Mon Mar 21 18:17:11 IST 2022
+base.0=D\:\\Flutter_Projects\\credit-card-demo\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
